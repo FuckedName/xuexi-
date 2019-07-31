@@ -1,5 +1,6 @@
 # xuexi-
-xuexi强国并行看视频和文章的方法
+xuexi强国并行看视频和文章的方法：
+
 1、下载https://www.xuexi.cn/lgdata/1novbsbi47k.json
        https://www.xuexi.cn/lgdata/1crqb964p71.json
        
